@@ -40,7 +40,7 @@ Every article and workbook includes online viewing, print/save as PDF, PDF downl
 Sources include ASHA, NIDCD/NIH, American Academy of Audiology, ADA.gov, Job Accommodation Network, Cochrane reviews, and peer-reviewed literature. Image sources are listed separately on the References page.
 
 ## Accessibility Features
-The site uses readable text, simple navigation, keyboard-accessible links, visible focus states, a skip link, print-friendly CSS, online and PDF formats, and patient-friendly wording.
+The site uses a simple non-redundant homepage, readable text, simple navigation, keyboard-accessible links, visible focus states, a skip link, print-friendly CSS, online and PDF formats, and patient-friendly wording.
 
 ## Disclaimer
 This toolkit is for educational purposes only and does not replace individualized care, diagnosis, or treatment from an audiologist, physician, or other qualified healthcare professional. Seek prompt medical care for sudden hearing loss, ear pain, drainage, dizziness, sudden tinnitus, or sudden changes in hearing.
