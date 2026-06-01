@@ -5,7 +5,7 @@ Public-facing tagline: **Hear Better, Live Brighter**
 Live website: https://audshakeel.github.io/adult-hearing-loss-toolkit/
 
 ## Purpose
-This project is an evidence-based adult aural rehabilitation toolkit for adults with hearing loss, newly diagnosed adults, adults considering hearing aids, new hearing aid users, family members, communication partners, and clinicians.
+This project is an evidence-based adult aural rehabilitation toolkit for adults with hearing loss, newly diagnosed adults, adults considering hearing aids, new hearing aid users, family members, and communication partners. It was developed by Doctor of Audiology candidates at the University of the Pacific in San Francisco, California as part of advanced adult aural rehabilitation education.
 
 ## Target Audience
 - Adults with hearing loss
@@ -16,7 +16,7 @@ This project is an evidence-based adult aural rehabilitation toolkit for adults 
 - Clinicians providing adult aural rehabilitation counseling
 
 ## Clinical Relevance to Adult Aural Rehabilitation
-The toolkit supports informational counseling, personal adjustment counseling, communication strategy training, hearing aid orientation, assistive technology education, communication partner training, self-advocacy, participation, quality of life, and long-term care planning.
+The toolkit supports informational counseling, personal adjustment counseling, communication strategy training, hearing aid orientation, assistive technology education, and communication partner training.
 
 ## Website Structure
 - Home
@@ -34,30 +34,30 @@ The toolkit supports informational counseling, personal adjustment counseling, c
 - Accessibility & Disclaimer
 
 ## View, Print, and Download Functionality
-Every article and workbook includes online viewing, print/save as PDF, PDF download, and related article/workbook links. The Download Center includes individual article PDFs, individual workbook PDFs, a complete article packet, a complete workbook packet, a family communication guide, and a clinician counseling packet.
+Every article and workbook includes online viewing, print/save as PDF, PDF download, and related article/workbook links. The Download Center includes individual article PDFs, individual workbook PDFs, and full toolkit downloads.
 
 ## Evidence Base
 Sources include ASHA, NIDCD/NIH, American Academy of Audiology, ADA.gov, Job Accommodation Network, Cochrane reviews, and peer-reviewed literature. Image sources are listed separately on the References page.
 
 ## Accessibility Features
-The site uses a simple non-redundant homepage, readable text, simple navigation, keyboard-accessible links, visible focus states, a skip link, print-friendly CSS, online and PDF formats, and patient-friendly wording.
+The site uses a simple non-redundant homepage, readable text, simple navigation, keyboard-accessible links, visible focus states, a skip link, print-friendly CSS, online and PDF formats, and patient-friendly language.
 
 ## Disclaimer
-This toolkit is for educational purposes only and does not replace individualized care, diagnosis, or treatment from an audiologist, physician, or other qualified healthcare professional. Seek prompt medical care for sudden hearing loss, ear pain, drainage, dizziness, sudden tinnitus, or sudden changes in hearing.
+This toolkit is for educational purposes only and does not replace individualized care, diagnosis, or treatment from an audiologist, physician, or other qualified healthcare professional. Seek prompt professional attention for any health concerns.
 
 ## Contributor Roles
 ### Tahreem Shakeel, AuD Candidate
-University of the Pacific, San Francisco, California
+University of the Pacific, San Francisco, California - Doctor of Audiology Program, Class of 2027
 
-Website development, project design, content development, project coordination, toolkit integration, and GitHub deployment.
+Website development, project design, content development, workbook development, resource review, project coordination, toolkit integration, and GitHub deployment.
 
 ### Michelle Ng, AuD Candidate
-University of the Pacific, San Francisco, California
+University of the Pacific, San Francisco, California - Doctor of Audiology Program, Class of 2027
 
 Content development, workbook development, and resource review.
 
 ### Sumeet Sidhu, AuD Candidate
-University of the Pacific, San Francisco, California
+University of the Pacific, San Francisco, California - Doctor of Audiology Program, Class of 2027
 
 Content development, workbook development, and resource review.
 
