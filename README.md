@@ -1,4 +1,4 @@
-# Living Well with Hearing Loss: An Adult Aural Rehabilitation Toolkit
+# Hear Better, Live Brighter: An Adult Aural Rehabilitation Toolkit
 
 Public-facing tagline: **Hear Better, Live Brighter**
 
