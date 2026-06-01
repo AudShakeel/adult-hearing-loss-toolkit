@@ -5,7 +5,7 @@ Public-facing tagline: **Hear Better, Live Brighter**
 Live website: https://audshakeel.github.io/adult-hearing-loss-toolkit/
 
 ## Purpose
-This project was developed as part of an academic adult aural rehabilitation project focused on evidence-based patient education, counseling support, communication strategy training, and hearing health resource development.
+This project is an evidence-based adult aural rehabilitation toolkit for adults with hearing loss, newly diagnosed adults, adults considering hearing aids, new hearing aid users, family members, communication partners, and clinicians.
 
 ## Target Audience
 - Adults with hearing loss
@@ -16,7 +16,7 @@ This project was developed as part of an academic adult aural rehabilitation pro
 - Clinicians providing adult aural rehabilitation counseling
 
 ## Clinical Relevance to Adult Aural Rehabilitation
-The toolkit supports informational counseling, personal adjustment counseling, communication strategy training, hearing aid orientation, assistive technology education, communication partner training, self-advocacy, participation, quality of life, and long-term hearing care planning.
+The toolkit supports informational counseling, personal adjustment counseling, communication strategy training, hearing aid orientation, assistive technology education, communication partner training, self-advocacy, participation, quality of life, and long-term care planning.
 
 ## Website Structure
 - Home
@@ -47,17 +47,17 @@ This toolkit is for educational purposes only and does not replace individualize
 
 ## Contributor Roles
 ### Tahreem Shakeel, AuD Candidate
-University of the Pacific, San Francisco, California
+University of the Pacific, San Francisco, California - Doctor of Audiology Program, Class of 2027
 
-Website development, project design, content development, workbook development, resource review, project coordination, toolkit integration, and GitHub deployment.
+Website development, project design, content development, project coordination, toolkit integration, and GitHub deployment.
 
 ### Michelle Ng, AuD Candidate
-University of the Pacific, San Francisco, California
+University of the Pacific, San Francisco, California - Doctor of Audiology Program, Class of 2027
 
 Content development, workbook development, and resource review.
 
 ### Sumeet Sidhu, AuD Candidate
-University of the Pacific, San Francisco, California
+University of the Pacific, San Francisco, California - Doctor of Audiology Program, Class of 2027
 
 Content development, workbook development, and resource review.
 
