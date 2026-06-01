@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hearing Check - Hear Better, Live Brighter</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="hero small">
+  <h1>10-Question Hearing Check</h1>
+  <p>This tool is educational. It does not diagnose hearing loss. Your answers stay on your device.</p>
+</header>
+<main>
+<section class="alert">
+  <h2>Before you start</h2>
+  <p>If you have sudden hearing loss, sudden ringing or buzzing, ear pain, ear drainage, dizziness, vertigo, sudden ear pressure, or new one-sided hearing trouble, seek medical care promptly. Do not use a website quiz as your next step.</p>
+  <label class="urgent"><input type="checkbox" id="urgent"> I have one of these urgent signs.</label>
+</section>
+<form id="quiz" class="card" aria-describedby="disclaimer">
+  <p id="disclaimer"><strong>Answer yes or no.</strong> The result tells you whether a comprehensive audiological evaluation may be a good next step.</p>
+  <div id="questions"></div>
+  <button type="submit" class="button">See my result</button>
+  <button type="button" class="button secondary" id="resetBtn">Start over</button>
+</form>
+<section id="result" class="card result" aria-live="polite"></section>
+<section class="card">
+  <h2>Why this tool recommends an audiologist</h2>
+  <p>A licensed audiologist can evaluate the type, degree, and pattern of hearing loss, speech understanding, and need for medical referral. A hearing aid dispenser or retail hearing center may help with devices later, but a device purchase is not the same as a diagnostic evaluation.</p>
+</section>
+</main>
+<footer><p>Sources include ASHA, NIDCD, FDA, CDC, ADA.gov, WHO, and peer-reviewed adult aural rehabilitation literature. See the Word toolkit for full APA references.</p></footer>
+<script src="script.js"></script>
+</body>
+</html>
