@@ -47,17 +47,17 @@ This toolkit is for educational purposes only and does not replace individualize
 
 ## Contributor Roles
 ### Tahreem Shakeel, AuD Candidate
-University of the Pacific, San Francisco, California - Doctor of Audiology Program, Class of 2027
+University of the Pacific, San Francisco, California
 
 Website development, project design, content development, project coordination, toolkit integration, and GitHub deployment.
 
 ### Michelle Ng, AuD Candidate
-University of the Pacific, San Francisco, California - Doctor of Audiology Program, Class of 2027
+University of the Pacific, San Francisco, California
 
 Content development, workbook development, and resource review.
 
 ### Sumeet Sidhu, AuD Candidate
-University of the Pacific, San Francisco, California - Doctor of Audiology Program, Class of 2027
+University of the Pacific, San Francisco, California
 
 Content development, workbook development, and resource review.
 
